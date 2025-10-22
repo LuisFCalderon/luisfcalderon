@@ -1,24 +1,37 @@
-# 👋 ¡Hola! Soy Luis Fabián Calderón
+<!-- 🌟 GitHub Profile README — Luis Fabián Calderón Fontalvo -->
 
-💻 **Ingeniero de Software Full Stack**  
-📍 Duitama, Boyacá, Colombia  
-🌐 [www.linkedin.com/in/luis2fcalderon](https://www.linkedin.com/in/luis2fcalderon)
+<h1 align="center">👋 ¡Hola! Soy Luis Fabián Calderón</h1>
+
+<p align="center">
+  💻 Ingeniero de Software Full Stack · 📍 Duitama, Boyacá, Colombia ·  
+  <a href="https://www.linkedin.com/in/luis2fcalderon" target="_blank">LinkedIn</a> ·
+  <a href="mailto:luis2fcalderon@gmail.com">luis2fcalderon@gmail.com</a>
+</p>
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador **Full Stack** con más de **3 años de experiencia** construyendo y escalando plataformas **SaaS orientadas a datos**.  
-Me apasiona transformar ideas y datos complejos en soluciones **claras, eficientes y escalables**, aportando tanto en la parte técnica como en la estratégica.
+Soy un **desarrollador Full Stack** con más de **3 años de experiencia** creando y escalando plataformas **SaaS orientadas a datos**.  
+Me motiva transformar ideas y datos complejos en soluciones **claras, eficientes y mantenibles**, contribuyendo tanto en la **arquitectura** como en la **experiencia del usuario**.
 
-He trabajado en la evolución de productos digitales en **Datasketch**, liderando migraciones técnicas y optimizaciones de rendimiento con tecnologías modernas.  
-Disfruto combinar **ingeniería de software, análisis de datos y diseño de producto**, buscando siempre impacto y calidad.
+En **Datasketch**, he liderado la evolución técnica del producto, optimizando rendimiento y escalabilidad con **RedwoodJS**, **Next.js**, **Astro**, **FastAPI**, **GraphQL** y **AWS**.  
+Combino ingeniería, datos y diseño para crear soluciones sólidas y orientadas al impacto real.
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🧠 Áreas de interés
 
-#### 🌐 Frontend
+- ☁️ Arquitectura de soluciones **Cloud** (AWS)  
+- 🤖 Aplicaciones basadas en **Inteligencia Artificial**  
+- ⚙️ Automatización y procesamiento de datos  
+- 🚴‍♂️ Tecnología + Ciclismo + Rendimiento humano  
+
+---
+
+### 🛠️ Stack Tecnológico
+
+#### 💡 Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![RedwoodJS](https://img.shields.io/badge/-RedwoodJS-bf2e1a?style=flat&logo=redwoodjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
@@ -28,9 +41,10 @@ Disfruto combinar **ingeniería de software, análisis de datos y diseño de pro
 #### ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify)
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Nest](https://img.shields.io/badge/-Nestjs-000000?style=flat&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat)
 
 #### 🗄️ Bases de datos y nube
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -39,27 +53,27 @@ Disfruto combinar **ingeniería de software, análisis de datos y diseño de pro
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 🏆 Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis2fcalderon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis2fcalderon&layout=compact&theme=tokyonight)
-
----
-
-### 🌍 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis2fcalderon)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luis2fcalderon@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis2fcalderon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🧠 Un poco más sobre mí
+### 🌍 Conecta conmigo
 
-- 🧩 Me interesa el **diseño de arquitecturas escalables** y la **automatización de datos**.  
-- ☁️ Actualmente profundizo en **AWS** y **arquitectura de soluciones cloud**.  
-- 🤖 Desarrollando **TrAIner**, una app de entrenamiento deportivo impulsada por IA.  
-- 🚴‍♂️ Aficionado al ciclismo y a la tecnología que impulsa el rendimiento humano.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis2fcalderon" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luis2fcalderon@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “La claridad y la simplicidad son la base de una buena ingeniería.”
-
+<p align="center">
+  <i>“La claridad y la simplicidad son la base de una buena ingeniería.”</i>
+</p>
