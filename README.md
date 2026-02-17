@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un **desarrollador Full Stack** con más de **3 años de experiencia** creando y escalando plataformas **SaaS orientadas a datos**.  
+Soy un **desarrollador Full Stack** con más de **4 años de experiencia** creando y escalando plataformas **SaaS orientadas a datos**.  
 Me motiva transformar ideas y datos complejos en soluciones **claras, eficientes y mantenibles**, contribuyendo tanto en la **arquitectura** como en la **experiencia del usuario**.
 
 En **Datasketch**, he liderado la evolución técnica del producto, optimizando rendimiento y escalabilidad con **RedwoodJS**, **Next.js**, **Astro**, **FastAPI**, **GraphQL** y **AWS**.  
