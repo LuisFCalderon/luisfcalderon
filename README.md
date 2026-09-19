@@ -20,7 +20,7 @@
 
 I turn what a client needs into software that works.
 
-Four years building SaaS products in production, almost always around data: biodiversity
+Over four years building SaaS products in production, almost always around data: biodiversity
 platforms, systems for public institutions, internal tools.
 
 At **Datasketch** since February 2022. I designed the architecture of the company SaaS
@@ -38,14 +38,21 @@ data model decisions and GraphQL API structure.
 
 ### Projects
 
+- **[Santander 2050](https://santander2050.com/)** — the roadmap a Colombian department is
+  planning its future with, and the platform its team uses to keep it current. The largest
+  thing I have built almost entirely on my own.
 - **[Biodiversidad en Cifras](https://cifras.biodiversidad.co/)** — Colombia's species data,
   open and navigable, for the Humboldt Institute and SiB Colombia.
 - **[National Federation of Departments](https://fnd.org.co/)** — the platform for the body
   that represents Colombia's 32 regional governments.
-- **[Ethnic Library Map](https://mapa-biblioteca-etnica.netlify.app/)** — a map of libraries
-  in indigenous, Afro-Colombian, raizal and palenquera communities.
+- **[Datasketch Blog](https://datasketch.blog/)** — a publishing site in Astro with a headless
+  CMS and D3 charts inside the articles. One of three Astro sites I have in production, along
+  with two product landing pages.
+- **[Gym Track](https://gymtrack.luixcalderon12-cloudfare.workers.dev/)** — a training log that lives
+  entirely on the phone: a real SQLite database inside the device through WebAssembly, no
+  server, no accounts, works offline.
 
-All fourteen projects are on the [portfolio](https://lcalderon.vercel.app).
+All seventeen projects are on the [portfolio](https://lcalderon.vercel.app).
 
 ### Tools
 
@@ -56,7 +63,7 @@ around React and the frameworks built on top of it.
 | --- | --- |
 | **Frontend** | React, Next.js, Astro, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Fastify, Express, RedwoodJS, Python, FastAPI |
-| **Data** | PostgreSQL, MySQL, Prisma, TypeORM, GraphQL, REST |
+| **Data** | PostgreSQL, MySQL, Prisma, Drizzle, Turso, Supabase, GraphQL, REST |
 | **Infrastructure** | AWS, Docker, Vercel, Git, Jest |
 
 ### Where I am going
@@ -91,14 +98,21 @@ decisiones de modelo de datos y de estructura de las APIs GraphQL.
 
 ### Proyectos
 
+- **[Santander 2050](https://santander2050.com/)** — la hoja de ruta con la que Santander
+  planea su futuro, y la plataforma con la que su equipo la mantiene viva. Es lo más grande
+  que he construido casi por completo yo mismo.
 - **[Biodiversidad en Cifras](https://cifras.biodiversidad.co/)** — los datos de especies de
   Colombia, abiertos y navegables, para el Instituto Humboldt y el SiB Colombia.
 - **[Federación Nacional de Departamentos](https://fnd.org.co/)** — la plataforma de la
   entidad que representa a los 32 departamentos del país.
-- **[Mapa Biblioteca Étnica](https://mapa-biblioteca-etnica.netlify.app/)** — mapa de las
-  bibliotecas en comunidades indígenas, afrocolombianas, raizales y palenqueras.
+- **[Blog de Datasketch](https://datasketch.blog/)** — sitio de publicaciones en Astro, con
+  CMS headless y visualizaciones en D3 dentro de los artículos. Uno de los tres sitios en
+  Astro que tengo en producción, junto a dos landing pages de producto.
+- **[Gym Track](https://gymtrack.luixcalderon12-cloudfare.workers.dev/)** — una libreta de entrenamiento
+  que vive entera en el teléfono: SQLite real dentro del dispositivo vía WebAssembly, sin
+  servidor, sin cuentas y sin conexión.
 
-Los catorce proyectos están en el [portafolio](https://lcalderon.vercel.app).
+Los diecisiete proyectos están en el [portafolio](https://lcalderon.vercel.app).
 
 ### Herramientas
 
@@ -109,7 +123,7 @@ muevo con React y con los frameworks que se apoyan en él.
 | --- | --- |
 | **Frontend** | React, Next.js, Astro, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Fastify, Express, RedwoodJS, Python, FastAPI |
-| **Datos** | PostgreSQL, MySQL, Prisma, TypeORM, GraphQL, REST |
+| **Datos** | PostgreSQL, MySQL, Prisma, Drizzle, Turso, Supabase, GraphQL, REST |
 | **Infraestructura** | AWS, Docker, Vercel, Git, Jest |
 
 ### Hacia dónde voy
