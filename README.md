@@ -27,15 +27,6 @@ At **Datasketch** since February 2022. I designed the architecture of the compan
 applications with RedwoodJS, Prisma and PostgreSQL, and I am the technical reference for
 data model decisions and GraphQL API structure.
 
-### Packages I maintain
-
-- **[@datasketch/bases-client](https://www.npmjs.com/package/@datasketch/bases-client)** —
-  a TypeScript client giving type-safe access to a REST API for tables, records, fields and
-  views. 22 releases since July 2024, with a single runtime dependency.
-- **[@datasketch/monkeytab](https://www.npmjs.com/package/@datasketch/monkeytab)** —
-  an embeddable, editable React table built on TanStack, with virtualized rows and tests
-  with coverage.
-
 ### Projects
 
 - **[Santander 2050](https://santander2050.com/)** — the roadmap a Colombian department is
@@ -86,15 +77,6 @@ internas.
 En **Datasketch** desde febrero de 2022. Diseñé la arquitectura de las aplicaciones SaaS de
 la empresa con RedwoodJS, Prisma y PostgreSQL, y soy el referente técnico para las
 decisiones de modelo de datos y de estructura de las APIs GraphQL.
-
-### Paquetes que mantengo
-
-- **[@datasketch/bases-client](https://www.npmjs.com/package/@datasketch/bases-client)** —
-  cliente en TypeScript que da acceso con tipos a una API REST de tablas, registros, campos
-  y vistas. 22 versiones desde julio de 2024, con una sola dependencia en tiempo de ejecución.
-- **[@datasketch/monkeytab](https://www.npmjs.com/package/@datasketch/monkeytab)** —
-  tabla editable e incrustable en React, construida sobre TanStack, con filas virtualizadas
-  y pruebas con cobertura.
 
 ### Proyectos
 
