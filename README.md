@@ -39,7 +39,7 @@ data model decisions and GraphQL API structure.
 - **[Datasketch Blog](https://datasketch.blog/)** — a publishing site in Astro with a headless
   CMS and D3 charts inside the articles. One of three Astro sites I have in production, along
   with two product landing pages.
-- **[Gym Track](https://gymtrack.luixcalderon12-cloudfare.workers.dev/)** — a training log that lives
+- **[Gym Track](https://github.com/LuisFCalderon/gymtrack)** — a training log that lives
   entirely on the phone: a real SQLite database inside the device through WebAssembly, no
   server, no accounts, works offline.
 
@@ -90,7 +90,7 @@ decisiones de modelo de datos y de estructura de las APIs GraphQL.
 - **[Blog de Datasketch](https://datasketch.blog/)** — sitio de publicaciones en Astro, con
   CMS headless y visualizaciones en D3 dentro de los artículos. Uno de los tres sitios en
   Astro que tengo en producción, junto a dos landing pages de producto.
-- **[Gym Track](https://gymtrack.luixcalderon12-cloudfare.workers.dev/)** — una libreta de entrenamiento
+- **[Gym Track](https://github.com/LuisFCalderon/gymtrack)** — una libreta de entrenamiento
   que vive entera en el teléfono: SQLite real dentro del dispositivo vía WebAssembly, sin
   servidor, sin cuentas y sin conexión.
 
